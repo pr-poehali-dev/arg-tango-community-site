@@ -155,7 +155,7 @@ export default function Index() {
             onClick={() => setActiveSection("home")}
             className="font-playfair text-xl text-primary tracking-wider hover:opacity-80 transition-opacity"
           >
-            <span className="italic">El</span> Tango
+            <span className="italic">Танго</span> энтузиасты
           </button>
 
           <nav className="hidden md:flex items-center gap-8">
@@ -206,7 +206,7 @@ export default function Index() {
                   Сообщество аргентинского танго
                 </p>
                 <h1 className="font-playfair text-6xl md:text-8xl text-foreground mb-6 leading-none">
-                  <span className="italic text-primary">El</span> Tango
+                  <span className="italic text-primary">Танго</span> энтузиасты
                 </h1>
                 <p className="font-cormorant text-xl md:text-2xl text-foreground/75 mb-10 max-w-xl mx-auto leading-relaxed">
                   Место, где страсть встречает традицию. Добро пожаловать в мир аргентинского танго.
